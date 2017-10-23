@@ -1,7 +1,7 @@
 {
   "baxterthehacker" : {
-    "public-repo" : {
-      "spec.yaml.xoxox.version" : "dd"
-    }
+    "public-repo" : [
+      "folder1/file.yaml"
+    ]
   }
 }
