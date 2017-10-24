@@ -1,7 +1,7 @@
 {
   "jeremieBAP" : {
     "test-repo" : [
-      "folder1/file.yaml"
+      "folder/file.yaml"
     ]
   }
 }
