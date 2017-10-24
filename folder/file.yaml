@@ -24,6 +24,7 @@ spec:
     spec:
       containers:
       - name: php-fpm
+        ### TAGGER AUTO GENERATED DO NOT REMOVE COMMENTS (:latest|v[0-9]\(.[0-9])*\(.[0-9])*) ###
         image: eu.gcr.io/namespace-gke/project:latest
         imagePullPolicy: Always
         command: ["php-fpm7"]
